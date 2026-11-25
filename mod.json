@@ -1,0 +1,12 @@
+{
+  "geode": "$GEODE_VERSION",
+  "gd": {
+    "android": "2.2091",
+    "win": "2.2091"
+  },
+  "id": "aydenlt.gd-version-switcher",
+  "name": "GD Version Switcher",
+  "version": "v1.0.0",
+  "developer": "aydenltpro",
+  "description": "Switch between Geometry Dash versions."
+}
